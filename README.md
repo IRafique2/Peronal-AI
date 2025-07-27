@@ -9,13 +9,14 @@
 ## 📸 Website Preview
 
 <div align="center">
-  <img src="screenshots/a.jpg" width="700" alt="Homepage Preview"/>
+  <img src="screenshots/a.png" width="700" alt="Homepage Preview"/>
   <p><em>🔵 PersonaFlow Home Interface</em></p>
 
   <img src="screenshots/b.jpg" width="700" alt="Visit My Goals"/>
+    <img src="screenshots/c.jpg" width="700" alt="Visit My Goals"/>
 
 
-  <img src="screenshots/c.jpg" width="700" alt="Alternate Me"/>
+  <img src="screenshots/d.jpg" width="700" alt="Alternate Me"/>
 
 
 
