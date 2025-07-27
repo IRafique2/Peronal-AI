@@ -22,8 +22,6 @@
 
 </div>
 
-> 📁 *Place your images inside the `/screenshots` folder and update file names if needed.*
-
 ---
 
 ## 🌟 Chatbot Overview
