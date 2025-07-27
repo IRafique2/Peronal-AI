@@ -16,10 +16,9 @@
 
 
   <img src="screenshots/c.jpg" width="700" alt="Alternate Me"/>
-  <p><em>🧍 Alternate Me Reflection Bot</em></p>
 
-  <img src="screenshots/d.jpg" width="700" alt="Personal AI"/>
-  <p><em>💬 Personal AI – Emotion-Aware Listener</em></p>
+
+
 </div>
 
 > 📁 *Place your images inside the `/screenshots` folder and update file names if needed.*
