@@ -4,25 +4,7 @@
 
 **PersonaFlow** is a 3-in-1 emotionally intelligent chatbot system designed to guide users through personal growth, goal setting, self-discovery, and emotional expression. Inspired by journaling, digital wellness, and human connection, it offers a calming space where your thoughts are heard and reflected on—like a digital twin that evolves with you.
 
----
 
-## 📸 Website Preview
-
-<div align="center">
-  <img src="screenshots/a.png" width="700" alt="Homepage Preview"/>
-  <p><em>🔵 PersonaFlow Home Interface</em></p>
-
-  <img src="screenshots/b.jpg" width="700" alt="Visit My Goals"/>
-    <img src="screenshots/c.jpg" width="700" alt="Visit My Goals"/>
-
-
-  <img src="screenshots/d.jpg" width="700" alt="Alternate Me"/>
-
-
-
-</div>
-
----
 
 ## 🌟 Chatbot Overview
 
@@ -48,4 +30,34 @@ Your emotionally aware assistant that detects your mood and offers empathetic re
 | JSON                   | Persistent user profile and memory management     |
 | Google Colab (optional)| Cloud-based development and testing               |
 
+---
+
+## 📸 Website Preview
+
+<div align="center">
+  <img src="screenshots/a.png" width="700" alt="Homepage Preview"/>
+  <p><em>🔵 PersonaFlow Home Interface</em></p>
+
+  <img src="screenshots/b.jpg" width="700" alt="Visit My Goals"/>
+    <img src="screenshots/c.jpg" width="700" alt="Visit My Goals"/>
+
+
+  <img src="screenshots/d.jpg" width="700" alt="Alternate Me"/>
+
+
+
+</div>
+
+---
 ### visit our website https://v0-activate-senior-mode.vercel.app/
+### 📁 get the  WEB UI Repositories 
+##Frontend
+git clone https://github.com/shahbazkhaliddev786/personaflow.git
+##backend
+cd personaflow git clone https://github.com/shahbazkhaliddev786/personaflow-backend.git
+cd personaflow-backend
+ 
+### 📁 Clone the Repositories 
+```bash
+git clone [https://github.com/shahbazkhaliddev786/personaflow.git](https://github.com/IRafique2/Peronal-AI/)
+cd personaflow
