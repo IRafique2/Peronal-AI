@@ -9,16 +9,16 @@
 ## 📸 Website Preview
 
 <div align="center">
-  <img src="screenshots/homepage.png" width="700" alt="Homepage Preview"/>
+  <img src="screenshots/a.jpg" width="700" alt="Homepage Preview"/>
   <p><em>🔵 PersonaFlow Home Interface</em></p>
 
-  <img src="screenshots/visit_my_goals.png" width="700" alt="Visit My Goals"/>
-  <p><em>🎯 Visit My Goals Bot</em></p>
+  <img src="screenshots/b.jpg" width="700" alt="Visit My Goals"/>
 
-  <img src="screenshots/alternate_me.png" width="700" alt="Alternate Me"/>
+
+  <img src="screenshots/c.jpg" width="700" alt="Alternate Me"/>
   <p><em>🧍 Alternate Me Reflection Bot</em></p>
 
-  <img src="screenshots/personal_ai.png" width="700" alt="Personal AI"/>
+  <img src="screenshots/d.jpg" width="700" alt="Personal AI"/>
   <p><em>💬 Personal AI – Emotion-Aware Listener</em></p>
 </div>
 
@@ -50,4 +50,4 @@ Your emotionally aware assistant that detects your mood and offers empathetic re
 | JSON                   | Persistent user profile and memory management     |
 | Google Colab (optional)| Cloud-based development and testing               |
 
----
+### visit our website https://v0-activate-senior-mode.vercel.app/
